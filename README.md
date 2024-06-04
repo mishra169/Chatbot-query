@@ -1,5 +1,6 @@
 # Chatbot-query
 A chatbot for making SQL queries developed utilizing the GPT-3 open-source language model and the ability to get trained on a particular dataset.
+You can access it from https://mishra169.github.io/Chatbot-query/
 
 **Backend**
 Programmed using Python
@@ -34,7 +35,7 @@ CREATE TABLE convo (ID int primary key, question VARCHAR(3000), response VARCHAR
 8. Use the browser to connect to http://127.0.0.1:5000/ to interact with the chatbot
 
 
-DISCLAIMER: I haven't hosted it online due to the unavailability of free cloud databases in which I have worked. I'll soon try to find an opensource database and implement the backend deployment.
+DISCLAIMER: I haven't hosted backend online due to the unavailability of free cloud databases in which I have worked. I'll soon try to find an open-source databases and implement the backend deployment. While then use https://mishra169.github.io/Chatbot-query/
 
 
 ![image](https://github.com/mishra169/Chatbot-query/assets/104723673/e3b25976-a8b9-4a12-be9c-f071d9e8a968)
