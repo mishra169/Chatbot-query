@@ -17,6 +17,7 @@ Download MySQL Workbench
 Run the following in MySQL Workbench to create a database
 
 CREATE DATABASE messages
+
 CREATE TABLE convo (ID int primary key, question VARCHAR(3000), response VARCHAR(3000));
 
 Within MySQL Workbench, connect to the messages database
